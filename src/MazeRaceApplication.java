@@ -7,11 +7,10 @@ import javax.sound.sampled.Line;
 
 /* Malcolm Shi
  * May 19, 2019
- * ICS3U1
  * MazeRace is an original game whereby the object of the game is to race your character around a maze attempting to 
  * collect gold coins.  The game begins by placing the character randomly in a maze with a number of randomly placed 
  * gold coins.  The player(s) uses the keyboard to navigate through the maze and reach the coins.  The game currently 
- * has one mode: a single player game - where the goal is to race against the clock to see how fast you can capture 
+ * has one mode: a single-player game - where the goal is to race against the clock to see how fast you can capture 
  * all the coins.
  * 
  * Extra features:

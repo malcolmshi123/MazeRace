@@ -30,8 +30,6 @@ import javax.sound.sampled.Line;
  * - Wanted to add gold rings for Sonic mode, but I was not able to scale image correctly
  * 		- Would have added sonic ring sound FX as well
  * 
- * If I had more time, I would have added more levels, more modes, and more objects like something to stop the time for
- * a few seconds.  I would have also added a leaderboards screen displaying the fastest times.
  */
 
 
